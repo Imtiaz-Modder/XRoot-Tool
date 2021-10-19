@@ -1,0 +1,2 @@
+rootProject.name = "XRoot Tool"
+include ':app'
